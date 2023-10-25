@@ -12,7 +12,7 @@
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
-    <a href=https://www.instagram.com/zero.develops_">
+    <a href=https://www.instagram.com/zero.develops_>
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
 </div>
