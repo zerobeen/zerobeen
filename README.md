@@ -3,6 +3,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=zeros_git&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
+<br></br>
+
 ##   :muscle: Skills :muscle:
 <div style="display:flex; flex-direction:row;">
  <br/>
@@ -11,6 +13,7 @@
    <br/>
 </div>
 
+<br></br>
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
